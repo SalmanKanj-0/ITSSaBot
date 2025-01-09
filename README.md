@@ -128,8 +128,6 @@ gcloud functions deploy ai-training --runtime python39 --trigger-http --allow-un
 
 -   Activate Confluence integration for AI model training.
 -   Expand Slackbot functionality to handle dynamic and complex queries.
--   Automate Jira ticket generation based on Slack and Confluence activity.
--   Develop advanced dashboards for team analytics.
 
 * * * * *
 **Acknowledgments**
