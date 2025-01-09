@@ -35,14 +35,15 @@ An intelligent Slack Assistant powered by OpenAI with planned integration for Co
 
 **File Structure**
 ------------------
-`📦 Project Root
-├── main.py               # GCF entry point for Slackbot and AI training.
-├── ai_controller.py      # AI-related utilities (commented Confluence integration).
-├── config.py             # Configuration for API credentials and settings.
-├── utils.py              # Utility functions (e.g., Slack verification).
-├── slack_controller.py   # Handles Slack message and interaction events.
-├── jira_controller.py    # Integrates Jira for ticket management.
-├── requirements.txt      # Dependency file for Python libraries.`
+📦 Project Root
+├── **main.py**               - GCF entry point for Slackbot and AI training.
+├── **ai_controller.py**      - AI-related utilities (commented Confluence integration).
+├── **config.py**             - Configuration for API credentials and settings.
+├── **utils.py**              - Utility functions (e.g., Slack verification).
+├── **slack_controller.py**   - Handles Slack message and interaction events.
+├── **jira_controller.py**    - Integrates Jira for ticket management.
+├── **requirements.txt**      - Dependency file for Python libraries.
+
 
 * * * * *
 
