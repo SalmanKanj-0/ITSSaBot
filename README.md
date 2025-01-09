@@ -35,11 +35,6 @@ An intelligent Slack Assistant powered by OpenAI with planned integration for Co
 
 **File Structure**
 ------------------
-
-graphql
-
-Copy code
-
 `📦 Project Root
 ├── main.py               # GCF entry point for Slackbot and AI training.
 ├── ai_controller.py      # AI-related utilities (commented Confluence integration).
