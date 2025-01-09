@@ -132,32 +132,6 @@ gcloud functions deploy ai-training --runtime python39 --trigger-http --allow-un
 -   Develop advanced dashboards for team analytics.
 
 * * * * *
-
-**Contributing**
-----------------
-
-We welcome contributions! Follow these steps:
-
-1.  Fork the repository.
-2.  Create a feature branch:
-
-    bash
-
-    Copy code
-
-    `git checkout -b feature-name`
-
-3.  Commit your changes and open a pull request.
-
-* * * * *
-
-**License**
------------
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-* * * * *
-
 **Acknowledgments**
 -------------------
 
