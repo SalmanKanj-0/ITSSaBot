@@ -1,0 +1,14 @@
+cryptography
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+httplib2
+six
+uritemplate
+slack-bolt==1.15.0
+slack-sdk
+Flask==2.2.5
+Werkzeug
+requests
+openai==0.27.0
